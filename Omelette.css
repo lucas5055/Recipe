@@ -1,0 +1,108 @@
+body {
+    background-color: #f3e5d8;
+}
+
+.quadrado {
+    text-align: center;
+    width: 800px;
+    height: 1800px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img {
+    width: 680px;
+    height: 350px;
+    border: 2px white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: left;
+    padding-left: 40px;
+}
+
+.b {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+.c {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: hsl(339, 55%, 94%);
+    text-align: left;
+    padding-left: 40px;
+    margin-left: 30px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-top: 50px;
+    color: hsl(332, 51%, 32%);
+    width: 610px;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.d {
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    text-align: left;
+    margin-left: 40px;
+}
+
+.e {
+    font-family: 'verdana';
+    text-align: left;
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.f {
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    text-align: left;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.g {
+    font-size: 16px;
+    text-align: left;
+    font-family: verdana;
+}
+.h {
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    text-align: left;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.i{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: left; 
+    margin-left: 40px;
+    padding-top: 10px;
+}
+.j {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: left; 
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.k {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 350px; 
+    color: hsl(14, 45%, 36%);
+    padding-left: 350px;
+}
