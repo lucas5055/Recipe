@@ -1,10 +1,21 @@
-<h1>🍳 Recipe</h1>
-Basic website showcasing recipes in cards—image, name, dish type—all done with pure HTML and CSS.
+# Recipe 🍳
 
-<h2>🧩 Structure</h2>
+Um site simples que exibe uma receita completa, incluindo ingredientes, tempo de preparo, instruções e informações nutricionais.
 
-index.html – card markup, etc.
+🔗 **Acesse aqui:** https://lucas5055.github.io/Recipe/
 
-style.css – grid/flex styling, responsive and clean.
+## 📌 Sobre o Projeto
+O objetivo é mostrar uma receita de forma clara e organizada, usando apenas HTML e CSS.  
+É leve, rápido e funciona bem como exemplo de página estática.
 
-images/ – folder with images used in the cards.
+## ✨ O que tem no site
+- Título e imagem da receita  
+- Tempo total, preparo e cozimento  
+- Lista de ingredientes  
+- Passo a passo detalhado  
+- Informações nutricionais básicas  
+
+## 🛠 Tecnologias
+- **HTML**
+- **CSS**
+- **GitHub Pages** para hospedagem
