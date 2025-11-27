@@ -97,12 +97,11 @@ body {
     text-align: left; 
     margin-left: 40px;
     padding-top: 20px;
-    padding-left: 30px;
+    padding-left: 10px;
 }
 .k {
-    text-align: right;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-right: 350px; 
     color: hsl(14, 45%, 36%);
-    padding-left: 350px;
+    
 }
